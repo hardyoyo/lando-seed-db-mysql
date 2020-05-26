@@ -50,4 +50,4 @@ Thanks and credit are due to the creators of Lando, this project would not exist
 
 ## License
 
-MIT
+[MIT](LICENSE.md)
