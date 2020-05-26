@@ -35,6 +35,7 @@ Try some of these other commands:
 That's kinda up to you. But, here's a suggestion, if you're just in the mood
 to explore: try adding [PHPMyAdmin](https://docs.lando.dev/config/phpmyadmin.html#supported-versions) to this dev environment.
 
+Or, you know, if you have a MySQL client you like (I'm partial to [TablePlus](https://www.tableplus.io/download) myself), fire it up and point it at `localhost:3306`
 
 ## Contributing
 
