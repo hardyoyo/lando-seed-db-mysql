@@ -26,9 +26,9 @@ Clone/check out this project, then run `lando start` from the root
 directory of this project.
 
 Try some of these other commands:
-`lando mysql` Run Arbritrary MySQL commands via the CLI for MySQL.
-`lando db-import <file>`  Import a dump file into the database.
-`lando` Show all availble Lando commands.
+* `lando mysql` Run Arbritrary MySQL commands via the CLI for MySQL.
+* `lando db-import <file>`  Import a dump file into the database.
+* `lando` Show all availble Lando commands.
 
 ## What's Next?
 
