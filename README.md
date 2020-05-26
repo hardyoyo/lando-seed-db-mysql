@@ -1,6 +1,6 @@
 # Lando Seed DB - MySQL
 
-Lando Seed DB - MySQL is a starter project for a Lando-based development
+Lando Seed DB - MySQL is a starter project for a [Lando](https://lando.dev)-based development
 environment. My main goal is to provide a useful function right out of the
 box: as soon as you run `lando start` the first time, you will get a
 containerized MySQL development environment, capable of importing data from
